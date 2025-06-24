@@ -1,6 +1,6 @@
 # Payload CMS Admin
 
-A powerful admin panel built using **Payload CMS** and **Next.js with TypeScript**.
+A powerful admin panel built using **Payload CMS** and **Next.js with TypeScript**, developed by **Jude Alexis Dy**.
 
 ## 🔗 Repository
 
